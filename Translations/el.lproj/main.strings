@@ -6,10 +6,10 @@
 "0Tk-5P-8i2.title" = "Υπηρεσίες";
 
 /* Class = "NSMenuItem"; title = "Open logs folder"; ObjectID = "52a-zm-Csr"; */
-"52a-zm-Csr.title" = "Εμφάνιση φακέλου αρχείων αναφοράς (Logs)";
+"52a-zm-Csr.title" = "Φάκελος αρχείων αναφοράς (Logs)";
 
 /* Class = "NSMenu"; title = "Debug"; ObjectID = "6lT-KW-uXA"; */
-"6lT-KW-uXA.title" = "Εκσφαλμάτωση";
+"6lT-KW-uXA.title" = "Εκσφαλμάτωση λογισμικού";
 
 /* Class = "NSMenuItem"; title = "Create a debug session"; ObjectID = "B5q-0l-TAK"; */
 "B5q-0l-TAK.title" = "Δημιουργία περιόδου εκσφαλμάτωσης";
@@ -126,4 +126,4 @@
 "wbR-ho-uar.title" = "Επιλογή όλων";
 
 /* Class = "NSMenuItem"; title = "Save debug information"; ObjectID = "zWX-XS-wiR"; */
-"zWX-XS-wiR.title" = "Αποθήκευση πληροφοριών εκσφαλμάτωσης";
+"zWX-XS-wiR.title" = "Αποθήκευση πληροφοριών εκσφ/σης";
